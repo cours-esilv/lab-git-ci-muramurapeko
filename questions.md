@@ -6,7 +6,7 @@ What is a commit?
 
 - A. A validated step in the code that appears in the repository history.
 - B. One of the multiple histories contained in a git repository.
-- C. Any recent modification made to one of the files in the repository.
+- C. Any recent modification made to one of the git help files in the repository.
 
 ### Question 2
 
