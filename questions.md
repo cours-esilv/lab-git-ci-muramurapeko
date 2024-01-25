@@ -65,7 +65,7 @@ Usually, what is the name of the main branch of a repository?
 
 - A. `master`
 - B. `feature`
-- C. `main`
+- C. `main✔`
 
 ### Question 9
 
